@@ -1,3 +1,3 @@
 Пеньков Максим Олександрович
 
-ipz231pmo@student.ztu.edu.ua
+ipz231_pmo@student.ztu.edu.ua
